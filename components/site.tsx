@@ -35,8 +35,7 @@ export function Site({ locale }: { locale: Locale }) {
           </div>
         </div>
       </header>
-
-      <section className="relative mx-auto flex min-h-screen max-w-7xl flex-col justify-center px-5 pt-24">
+<section className="relative mx-auto flex min-h-[70vh] max-w-7xl flex-col justify-center px-5 pt-24">
         className="pointer-events-none absolute inset-0 z-0 bg-[radial-gradient(circle_at_50%_35%,rgba(255,255,255,.14),transparent_34%)]"
         <p className="mb-6 text-sm uppercase tracking-[0.4em] text-neutral-500">{t.heroKicker}</p>
         <h1 className="max-w-6xl text-5xl font-medium tracking-[-0.06em] sm:text-7xl lg:text-8xl">
