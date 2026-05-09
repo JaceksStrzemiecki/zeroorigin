@@ -78,6 +78,8 @@ roadmap: [
   { phase: 'Phase 03', title: 'Coordination', text: 'Research into digital participation systems, access mechanics, utility concepts and future token-based coordination.' },
   { phase: 'Phase 04', title: 'Real-World Exploration', text: 'Careful exploration of automotive, mobility or hardware-inspired directions, including feasibility and potential collaborators.' },
   { phase: 'Phase 05', title: 'Beyond Origin', text: 'A broader network of contributors focused on turning digital coordination into real-world creation.' },
+],
+collabTitle: 'Collaborate',
 collabTitle: 'Collaborate',
 collabText: 'ZeroOrigin is open to people, builders and companies interested in technical, creative, strategic or automotive-related collaboration.',
 contact: 'Contact / collaboration',
