@@ -49,6 +49,8 @@ export function Site({ locale }: { locale: Locale }) {
           </a>
           <a
             href="https://x.com/ZeroOriginLab"
+            target="_blank"
+rel="noopener noreferrer"
             className="inline-flex items-center gap-2 rounded-full border border-line px-6 py-3 text-sm text-white hover:bg-white/10"
           >
             {t.secondaryButton}
