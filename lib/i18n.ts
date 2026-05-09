@@ -110,7 +110,7 @@ roadmapIntro: 'Roadmapa jest celowo realistyczna. ZeroOrigin rośnie przez widoc
   { phase: 'Faza 04', title: 'Eksploracja świata rzeczywistego', text: 'Ostrożne badanie kierunków automotive, mobilności lub hardware, w tym wykonalności i potencjalnych współprac.' },
   { phase: 'Faza 05', title: 'Beyond Origin', text: 'Szersza sieć osób skupionych na przenoszeniu cyfrowej koordynacji w realne tworzenie.' },
 ],
-    ],
+
     collabTitle: 'Współpraca',
     collabText: 'ZeroOrigin jest otwarty na osoby i firmy zainteresowane współpracą techniczną, kreatywną, strategiczną lub związaną z automotive. Jeśli rozumiesz eksperyment i chcesz wnieść wkład, drzwi są otwarte.',
     contact: 'Kontakt / współpraca',
