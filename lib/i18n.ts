@@ -53,7 +53,7 @@ export const content: Record<Locale, Content> = {
   en: {
 nav: ['Mission', 'Token', 'Physical Vision', 'Roadmap', 'Collaborate'],
 cta: 'Follow the build',
-heroKicker: 'ZeroOrigin Lab',
+heroKicker: 'ZeroOrigin Lab',  
 heroTitle: 'Building something real — from zero.',
 heroText: 'A long-term public experiment exploring whether digital communities can evolve into real-world value.',
 definitionTitle: 'What is ZeroOrigin?',
