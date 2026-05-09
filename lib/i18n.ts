@@ -80,7 +80,6 @@ roadmap: [
   { phase: 'Phase 05', title: 'Beyond Origin', text: 'A broader network of contributors focused on turning digital coordination into real-world creation.' },
 ],
 collabTitle: 'Collaborate',
-collabTitle: 'Collaborate',
 collabText: 'ZeroOrigin is open to people, builders and companies interested in technical, creative, strategic or automotive-related collaboration.',
 contact: 'Contact / collaboration',
 disclaimer: 'ZeroOrigin is an experimental project. Nothing on this website should be treated as financial advice.',
