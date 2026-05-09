@@ -84,7 +84,7 @@ collabTitle: 'Collaborate',
 collabText: 'ZeroOrigin is open to people, builders and companies interested in technical, creative, strategic or automotive-related collaboration.',
 contact: 'Contact / collaboration',
 disclaimer: 'ZeroOrigin is an experimental project. Nothing on this website should be treated as financial advice.',
-],
+},
   pl: {
     nav: ['Misja', 'Token', 'Wizja fizyczna', 'Roadmapa', 'Współpraca'],
     cta: 'Śledź budowę',
